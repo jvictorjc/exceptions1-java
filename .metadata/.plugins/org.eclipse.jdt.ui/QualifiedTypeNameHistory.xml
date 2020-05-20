@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="entities.Triangle"/>
+<fullyQualifiedTypeName name="entities.product"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="entities.Rectangle"/>
+<fullyQualifiedTypeName name="entities.Employee"/>
+<fullyQualifiedTypeName name="java.text.Format"/>
+<fullyQualifiedTypeName name="entities.CurrencyConverter"/>
+<fullyQualifiedTypeName name="entities.Studant"/>
+<fullyQualifiedTypeName name="entities.Funcionario"/>
+<fullyQualifiedTypeName name="entities.enums.WorkerLevel"/>
+<fullyQualifiedTypeName name="java.util.stream.BaseStream"/>
+<fullyQualifiedTypeName name="entities.Department"/>
+<fullyQualifiedTypeName name="entities.Worker"/>
+<fullyQualifiedTypeName name="entities.HourContract"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="java.sql.ClientInfoStatus"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+<fullyQualifiedTypeName name="entities.Client"/>
+<fullyQualifiedTypeName name="entities.Order"/>
+<fullyQualifiedTypeName name="entities.enums.OrderStatus"/>
+<fullyQualifiedTypeName name="entities.OrderItem"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="java.util.Locale"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="entities.UsedProduct"/>
+<fullyQualifiedTypeName name="entities.ImportedProduct"/>
+<fullyQualifiedTypeName name="entities.Product"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="entities.PessoaFisica"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="entities.Pessoa"/>
+<fullyQualifiedTypeName name="entities.PessoaJuridica"/>
+<fullyQualifiedTypeName name="java.lang.Double"/>
+</qualifiedTypeNameHistroy>

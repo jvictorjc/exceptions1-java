@@ -1,0 +1,39 @@
+package entities;
+
+public class PessoaJuridica extends Pessoa{
+	
+	private Integer numeroFuncionario;
+
+	public PessoaJuridica() {
+		super();
+	}
+
+	public PessoaJuridica(String nome, Double rendaAnual, Integer numeroFuncionario) {
+		super(nome, rendaAnual);
+		this.numeroFuncionario = numeroFuncionario;
+	}
+
+	public Integer getNumeroFuncionario() {
+		return numeroFuncionario;
+	}
+
+	public void setNumeroFuncionario(Integer numeroFuncionario) {
+		this.numeroFuncionario = numeroFuncionario;
+	}
+	
+	public Double impostoPessoaJuridica(int numeroFuncionario){
+		if(rendaAnual <= 20000.00 && gastoSaude == null){
+			rendaAnual += rendaAnual * 1.15;
+		}
+		else if(rendaAnual <= 20000.00 && gastoSaude != null){
+			rendaAnual += (rendaAnual * 1.15) - (gastoSaude * 1.5);
+		}
+		else if(rendaAnual > 20000.00 && gastoSaude == null){
+			rendaAnual += rendaAnual * 1.25;
+		}
+		else if(rendaAnual > 20000.00 && gastoSaude != null){
+			rendaAnual += (rendaAnual * 1.25) - (gastoSaude * 1.5);
+		}
+		return rendaAnual;
+	}
+}

@@ -1,0 +1,8 @@
+package application;
+
+public class Snippet {
+	Gets a calendar using the default time zone and locale. The Calendar returned is based on the current time in the default time zone with the default FORMAT locale.
+	Returns:
+	a Calendar.
+}
+

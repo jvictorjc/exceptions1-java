@@ -1,0 +1,27 @@
+package application;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+import entities.Studanty;
+
+
+public class ExercicioFixacaoVetor {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		
+		int n = sc.nextInt();
+		Studanty[] vect = new Studanty[n];
+		
+		for(int i=1; i<n; i++){
+			sc.nextLine();
+			String name = sc.nextLine();
+			String email = sc.nextLine();
+			vect[i] = new Studanty(name,email);
+		}
+
+	}
+
+}

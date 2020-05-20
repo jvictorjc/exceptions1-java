@@ -1,0 +1,6 @@
+INDEX VERSION 1.130+/home/joao_dell/ambientTrabalho/studyJava/.metadata/.plugins/org.eclipse.jdt.core
+3317076261.index
+3995685430.index
+3031551998.index
+1998945052.index
+1784981492.index
